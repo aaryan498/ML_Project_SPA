@@ -258,8 +258,9 @@ This project was developed as part of my **College Internship Project** at:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEE&center=true&vCenter=true&width=600&lines=🚀+Aspiring+SDE;🤖+AI%2FML+Enthusiast;🌐+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEE&center=true&vCenter=true&width=600&lines=🚀+Aspiring+SDE&lines=🤖+AI/ML+Enthusiast&lines=🌐+Tech+Explorer" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/aaryan498">
