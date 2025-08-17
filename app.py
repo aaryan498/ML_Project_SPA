@@ -43,6 +43,11 @@ def add_engineered_features(df):
 # ---------------------------
 st.markdown("<h1 style='text-align: center; color: darkblue;'>🎓 Student Performance Prediction App</h1>", unsafe_allow_html=True)
 
+import streamlit as st
+
+# Display your photo at the top
+st.image("profile.jpeg", width=150, caption="👋 Hi, I'm Aaryan Kumar", use_column_width=False)
+
 st.markdown("""
 Welcome!  
 - Enter the student details in the sidebar.  
