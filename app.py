@@ -41,18 +41,25 @@ def add_engineered_features(df):
 # ---------------------------
 # App Layout
 # ---------------------------
+
 st.markdown("<h1 style='text-align: center; color: darkblue;'>🎓 Student Performance Prediction App</h1>", unsafe_allow_html=True)
 
-import streamlit as st
-
-# Display your photo at the top
-st.image("profile.jpeg", width=150, caption="👋 Hi, I'm Aaryan Kumar", use_column_width=False)
+# Small profile picture below the heading
+st.image("profile.jpeg", width=150, caption="Author: Aaryan Kumar")
 
 st.markdown("""
-Welcome!  
-- Enter the student details in the sidebar.  
-- Click **Predict Result** to know if the student will likely **Pass** or **Fail**.  
-""")
+<div style="text-align: left; padding: 15px; font-size:16px; color: #ffffff; line-height: 2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <h2 style="background: linear-gradient(90deg, #36BCF7, #34eb7f); -webkit-background-clip: text; color: transparent; font-size:32px; margin-bottom: 15px;">
+        👋 Welcome to the Student Performance Predictor!
+    </h2>
+    <ul style="list-style-type: none; padding-left: 0;">
+        <li style="margin-bottom: 10px;">✨ <b>Enter the student details</b> in the sidebar and get instant insights into academic performance.</li>  
+        <li style="margin-bottom: 10px;">🎯 Predict whether a student will <b style='color:#ff5733'>Pass or Fail</b> with probability scores.</li>  
+        <li style="margin-bottom: 10px;">📊 Discover which <b style='color:#1f4e79'>Grade</b> you currently stand at and visualize your progress.</li>  
+        <li style="margin-bottom: 10px;">🚀 All results are displayed with <b>interactive charts, progress bars, and dynamic grade cards</b>.</li>
+    </ul>
+</div>
+""", unsafe_allow_html=True)
 
 # ---------------------------
 # Sidebar Inputs
