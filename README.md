@@ -250,7 +250,7 @@ This project was developed as part of my **College Internship Project** at:
 ## 👨‍💻 Author  
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/106829221?v=4" width="120" style="border-radius:50%" alt="Author Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/u/208326126?s=400&u=8fabb4e0ffaf9de8ace503c635d1f40f57053a2d&v=4" width="120" style="border-radius:50%" alt="Author Profile Picture"/>
 </p>
 
 <p align="center">
