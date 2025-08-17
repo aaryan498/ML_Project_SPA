@@ -123,7 +123,6 @@ Follow these steps to set up and run the **Student Performance Analysis System**
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/aaryan498/ML_Project_SPA.git
-cd ML_Project_SPA
 ```
 ### 2️⃣ Create a Virtual Environment (Recommended)
 
