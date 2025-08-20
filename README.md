@@ -109,7 +109,7 @@ ML_Project_SPA/
 ├── predict.py                        # Data cleaning, EDA, model training & CLI
 ├── app.py                            # Streamlit web app (interactive UI)
 ├── README.md                         # Project documentation (this file)
-├── Research Paper.pdf               # Research paper documentation
+├── Research Paper.pdf                # Research paper documentation
 ├── requirements.txt                  # Required dependencies
 ├── student_performance_model.pkl     # Saved model + feature_columns (joblib artifact)
 └── StudentsPerformance.csv           # Original dataset (Kaggle)
