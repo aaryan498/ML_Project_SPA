@@ -210,7 +210,7 @@ deactivate
 ---
 
 ### 🔗 Live Demo  
-[![Live Demo](https://img.shields.io/badge/Click%20Here-Live%20Demo-brightgreen?style=for-the-badge&logo=google-chrome)](https://student-performance-predictor-aaryan.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Click%20Here-Live%20Demo-brightgreen?style=for-the-badge&logo=google-chrome)](https://student-performance-predictor-model-aaryan.streamlit.app/)
 
 ---
 
